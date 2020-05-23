@@ -4,6 +4,7 @@ than the number of Jedis at any of the sides the game will be lost. You cannot m
 persons inside the boat.
 
 Key Instructions:
+
 note: it's case senstive so beware of that 
 
 
